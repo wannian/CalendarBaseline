@@ -31,7 +31,7 @@
             android:id="@+id/agenda_events_list"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            class="com.acom.ly.calendar.agenda.AgendaListView"
+            class="com.ly.calendar.agenda.AgendaListView"
             android:fadingEdge="none" />
     </view>
 
